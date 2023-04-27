@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JEscartinSpherag
+- 👋 Hi, I’m Jesús Escartín
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C# and Selenium
 <!---
